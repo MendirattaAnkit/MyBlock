@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view.
     
     NSLog(@"This is from view controller");
+    NSLog(@"This is from same controller");
 }
 
 
